@@ -160,9 +160,9 @@ const ROWS = 3;
 const COLS = 3;
 
 function initImages() {
-    //bluedogImage.src = blueimg;
-    //busImage.src = busimg;
-    //tvImage.src = tvimg;
+    bluedogImage.src = blueimg;
+    busImage.src = busimg;
+    tvImage.src = tvimg;
 }
 
 function initButtons() {
